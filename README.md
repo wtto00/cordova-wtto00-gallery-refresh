@@ -4,8 +4,8 @@
 
 参考 [pouu69/cordova-plugin-gallery-refresh](https://github.com/pouu69/cordova-plugin-gallery-refresh)
 
-- 修复 IOS 提示 `Invalid callback id` 的问题
-- 添加 TS 类型提示
+- 🐛 修复 IOS 提示 `Invalid callback id` 的问题
+- 🌟 添加 TS 类型提示
 
 ## 支持平台
 
