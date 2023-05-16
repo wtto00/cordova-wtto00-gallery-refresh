@@ -1,6 +1,6 @@
 {
   "name": "cordova-wtto00-gallery-refresh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mobile Device gallery refresh after image file download.",
   "types": "./types/index.d.ts",
   "homepage": "https://github.com/wtto00/cordova-wtto00-gallery-refresh",
@@ -8,6 +8,12 @@
     "type": "git",
     "url": "git+https://github.com/wtto00/cordova-wtto00-gallery-refresh.git"
   },
+  "files": [
+    "src",
+    "types",
+    "www",
+    "plugin.xml"
+  ],
   "cordova": {
     "id": "cordova-wtto00-gallery-refresh",
     "platforms": [
